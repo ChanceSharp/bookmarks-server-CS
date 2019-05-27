@@ -11,7 +11,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
+  "author": "Chance Sharp <chance.balticlt@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
